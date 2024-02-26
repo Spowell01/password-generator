@@ -6,7 +6,7 @@ This is a Random Password Generator.
 
 ## Installation
 here is a link to the deplyed site!
-https://spowell01.github.io/challenge_02/ 
+https://spowell01.github.io/password-generator/ 
 
 ## Usage
 this is a screenshot of the page.
