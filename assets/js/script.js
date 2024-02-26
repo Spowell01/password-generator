@@ -119,7 +119,7 @@ function generatePassword() {
   };
 
   // Empty variable for the password lenght
-  var passwordBlank = ['Cannot Generate Password :('];
+  var passwordBlank = [];
   
   // Loop for random selection
   for (var i = 0; i < passwordLength; i++) {

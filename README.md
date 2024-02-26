@@ -10,7 +10,7 @@ https://spowell01.github.io/challenge_02/
 
 ## Usage
 this is a screenshot of the page.
-![Screenshot of webpage.](assets\images\password-ss.png)
+![Screenshot of webpage.](assets/images/password-ss.png)
 
 ## Credits
 I got the source code from https://git.bootcampcontent.com/Ohio-State-University/OSU-VIRT-FSF-PT-01-2024-U-LOLC/-/tree/main/03-JavaScript/02-Challenge?ref_type=heads
